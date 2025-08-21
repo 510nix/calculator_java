@@ -17,8 +17,7 @@ public:
 
 // Example usage
 int main() {
-    //The calculator functionalities
-    Calculator calc;
+Calculator calc;
     cout << "Add: " << calc.add(5, 3) << endl;
     cout << "Subtract: " << calc.subtract(5, 3) << endl;
     cout << "Multiply: " << calc.multiply(5, 3) << endl;
